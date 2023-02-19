@@ -26,9 +26,9 @@ The sampling techniques used in this program are:
 •Systematic Sampling     
 •Train Test Sampling   
 
-Best Model : Random Forest
-Best Sampling : Train Test Split on balanced Data
-Best Accuracy : 0.993453
+Best Model : Random Forest  
+Best Sampling : Train Test Split on balanced Data  
+Best Accuracy : 0.993453  
 
 ## Result
 The output shows the accuracy score of various models on samples obtained from different sampling techniques. Overall it can be seen that Random Forest produces the best results for all the samples.
