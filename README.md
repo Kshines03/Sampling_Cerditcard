@@ -20,7 +20,7 @@ The five machine learning models used in this program are:
 •Support Vector Machine 
 
 The sampling techniques used in this program are:  
-•Simple Random Sampling 
+•Simple Random Sampling  
 •Stratified Random Sampling   
 •Cluster Sampling   
 •Systematic Sampling     
