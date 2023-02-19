@@ -32,7 +32,7 @@ Best Accuracy : 0.993453
 
 ## Result
 The output shows the accuracy score of various models on samples obtained from different sampling techniques. Overall it can be seen that Random Forest produces the best results for all the samples.
-
+|             |             |             |            |             |             |
 |-------------|-------------|-------------|------------|-------------|-------------|
 | Results:    | Sampling1   | Sampling2   | Sampling3  | Sampling4   | Sampling5   |
 | M1          | 0.97491     | 0.867486    | 0.490099   | 0.506273    | 	0.993453   |
