@@ -14,13 +14,13 @@ One should create a Jupyter notebook that contains your code and results and sho
 
 The five machine learning models used in this program are:  
 •Decision Tree  
-•Random Forest
-•Gradient Boosting Classifier
-•Logistic Regression
-•Support Vector Machine
+•Random Forest  
+•Gradient Boosting Classifier 
+•Logistic Regression  
+•Support Vector Machine 
 
 The sampling techniques used in this program are:  
-•Simple Random Sampling
+•Simple Random Sampling 
 •Stratified Random Sampling 
 •Cluster Sampling  
 •Systematic Sampling  
